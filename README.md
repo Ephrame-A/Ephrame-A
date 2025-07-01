@@ -5,19 +5,19 @@ I am a passionate CS student at Addis Ababa university, driven by a curiosity fo
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor in Computer Science at AAU.
+- 🔭 I'm currently pursuing my Bachelor in Computer Science at Addis Ababa University.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning front end Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind and Bootstrap CSS to create modern and responsive user interfaces.
+🚀 Learning Machine Learning and Deep Learning
 
+  - Exploring the fundamentals of algorithms and models for predictive analytics.
+  - Navigating through frameworks like TensorFlow and PyTorch for building and training neural networks.
+  - Delving into supervised and unsupervised learning techniques, including Convolutional Neural Networks (CNNs) for image processing tasks.
 
 ## 📬 Get in Touch
 
