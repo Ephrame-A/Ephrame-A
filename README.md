@@ -1,43 +1,54 @@
-# Hi, I'm Ephrame! 👋
+# Hi, I'm Ephrame! 👋  
 
-I am a passionate CS student at Addis Ababa university, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+🎓 **Computer Science Student @ Addis Ababa University**  
+🤖 **AI & Frontend Engineer in the making**
 
+I’m a passionate Computer Science student driven by curiosity for technology and a love for building meaningful software.  
+My journey blends **machine learning**, **problem-solving**, and **frontend development**, with a focus on creating intelligent and user-friendly systems.
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor in Computer Science at Addis Ababa University.
+- 🔭 Pursuing a **Bachelor’s degree in Computer Science** at Addis Ababa University  
+- 🌱 Actively learning **Machine Learning** and **Deep Learning**  
+- 💡 Interested in **AI systems**, **frontend architecture**, and **scalable applications**  
+- 🤝 Enjoy collaborating, learning, and sharing knowledge with the community  
 
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,python)](https://skillicons.dev)
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tailwind,bootstrap,tensorflow,git,docker)](https://skillicons.dev)
+
+---
 
 ## 🌱 Currently Exploring
 
-🚀 Learning Machine Learning and Deep Learning
+🚀 **Machine Learning & Deep Learning**
 
-  - Exploring the fundamentals of algorithms and models for predictive analytics.
-  - Navigating through frameworks like TensorFlow and PyTorch for building and training neural networks.
-  - Delving into supervised and unsupervised learning techniques, including Convolutional Neural Networks (CNNs) for image processing tasks.
+- Understanding advanced ML algorithms and predictive coding  
+- Building and training neural networks using **TensorFlow** and **PyTorch**  
+- Working on symbolic and nero-symbolic AI 
+
+---
+
+## 🚀 Projects
+
+- **Hybrid RAG System** — Retrieval-augmented generation using Neo4j & ChromaDB  
+- **Financial Automation Agent** — Flask-based scheduling assistant  
+- **Medical Prediction Models** — Cancer & heart disease prediction  
+
+👉 *Check out my repos for other cool projects and details*
+
+---
 
 ## 📬 Get in Touch
 
-- Connect with me on [Telegram]((https://t.me/Ephrame12))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Ephrame12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ephreme-amanu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ephremeamanu@gmail.com)
 
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Thanks for stopping by! Let’s build, learn, and explore the future of technology together.*
