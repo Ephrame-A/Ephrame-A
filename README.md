@@ -1,54 +1,54 @@
-# Hi, I'm Ephrame! 👋  
+# Hi, I'm Ephrame! 👋
 
-🎓 **Computer Science Student @ Addis Ababa University**  
-🤖 **AI & Frontend Engineer in the making**
+⚡ **AI Engineer @ iCog Labs** & **Computer Science Student @ Addis Ababa University** 🚀 Architecting the future of intelligence through Advanced ML, Hybrid RAG, and Autonomous Agentic Systems.
 
-I’m a passionate Computer Science student driven by curiosity for technology and a love for building meaningful software.  
-My journey blends **machine learning**, **problem-solving**, and **frontend development**, with a focus on creating intelligent and user-friendly systems.
+I’m an AI Engineer and researcher based in Addis Ababa, 4 Kilo. My work centers on bridging the gap between deep generative models, structured symbolic logic, and production-ready agentic workflows.
 
 ---
 
-## 🚀 About Me
+## 🔬 Core Focus & Research
 
-- 🔭 Pursuing a **Bachelor’s degree in Computer Science** at Addis Ababa University  
-- 🌱 Actively learning **Machine Learning** and **Deep Learning**  
-- 💡 Interested in **AI systems**, **frontend architecture**, and **scalable applications**  
-- 🤝 Enjoy collaborating, learning, and sharing knowledge with the community  
-
----
-
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tailwind,bootstrap,tensorflow,git,docker)](https://skillicons.dev)
+* **🤖 Agentic AI & Automation:** Designing autonomous, goal-driven agents capable of tool usage, long-term planning, and execution handling.
+* **🧠 Neurosymbolic AI & AGI:** Investigating Hyperon attention mechanisms, Economic Attention Networks (ECAN), and merging neural architectures with formal logic.
+* **🔍 Advanced Retrieval (RAG):** Engineering highly contextual retrieval systems leveraging vector databases, knowledge graphs, and hybrid semantic search pipelines.
 
 ---
 
-## 🌱 Currently Exploring
+## 🛠️ Tech Stack & Tools
 
-🚀 **Machine Learning & Deep Learning**
+### Languages & Core
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java)](https://skillicons.dev)
 
-- Understanding advanced ML algorithms and predictive coding  
-- Building and training neural networks using **TensorFlow** and **PyTorch**  
-- Working on symbolic and nero-symbolic AI 
+### Frameworks, Ecosystem & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,flask,react,tailwind,nodejs,mysql,postgres,git,docker)](https://skillicons.dev)
+
+> **Specialized Toolkit:** ChromaDB, FAISS, Neo4j, HuggingFace Transformers,
 
 ---
 
-## 🚀 Projects
+## 📂 Featured Projects
 
-- **Hybrid RAG System** — Retrieval-augmented generation using Neo4j & ChromaDB  
-- **Financial Automation Agent** — Flask-based scheduling assistant  
-- **Medical Prediction Models** — Cancer & heart disease prediction  
+* **Financial Automation Agent** — A Flask-backed scheduling and execution assistant leveraging LLM tool-calling capabilities to automate transactional workflows and pipeline actions.
+* **My-Notebook** - notebookLM style simple RAG system for document analysis and asking questions. live on [myNotebook](https://my-notebook-production-012d.up.railway.app/).
+* **Hybrid RAG & Knowledge Graph System** — High-performance retrieval-augmented generation engine integrating **Neo4j** graph databases and **ChromaDB** vector stores to merge structured knowledge with dense embeddings.
+* **Radio-show** : autonomous AI radio show production pipeline that generates a daily news show with two AI hosts.
+* **Neurosymbolic Theorem Prover** — Collaborating on automated theorem proving systems utilizing hybrid symbolic and neural network architectures.
 
-👉 *Check out my repos for other cool projects and details*
+---
+
+## 🌱 Currently Deep Diving Into
+
+* ⛓️ **Multi-Agent Orchestration Loops:** Building custom agent coordination frameworks for handling complex, multi-step dependency tasks.
+* 📈 **RAG Evaluation & Optimization:** Implementing advanced re-ranking, query transformation, and semantic parsing to reduce hallucination and latency.
+* 🎛️ **Parameter-Efficient Fine-Tuning (PEFT):** Exploring specialized LoRA/QLoRA applications to optimize smaller open-source models for robust tool usage.
 
 ---
 
 ## 📬 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Ephrame12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ephreme-amanu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ephremeamanu@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ephrame12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ephrame-amanu-00493730a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ephremeamanu@gmail.com)
 
 ---
-
-⭐ *Thanks for stopping by! Let’s build, learn, and explore the future of technology together.*
+✨ *Expected Graduation: June 2027 | Always open to collaborating on production-grade RAG pipelines, agent frameworks, and ML research.*
